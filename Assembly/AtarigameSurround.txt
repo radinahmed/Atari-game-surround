@@ -1,0 +1,10 @@
+The object of the game is to keep the moving asterisks (*) from crossing its own path or colliding with the
+boundary of the board. The internal size of the board is 20 spaces horizontally and 10 vertically. When
+the game starts, the * starts to move. The initial position of the * is random. The initial direction of the
+movement is also random. The * moves at a rate of once every ½ second. The user can change the
+direction of the movement by pressing w for up, s for down, a for left, and d for right. As the * moves, it
+should leave a path of * in its wake. The game ends when the * crosses its path or collides with the
+boundary. Every time a new * is displayed on the screen, the score should increase by one. When the
+game starts, directions should be displayed, and the user should be instructed to press a key to start. You
+may choose the key they press to start, but let the user know what that key is in the instructions. After
+that key is pressed, the * starts moving and the game is underway. 
